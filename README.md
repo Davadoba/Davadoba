@@ -22,7 +22,7 @@ I'm a Computer Science student at UC San Diego. I build data and AI systems that
 ### Outside of Coding
 - I love basketball, and I'm a big Knicks fan! I'm interested in sports analytics, and how we can use data to better evaluate the effectiveness of players and teams to push the sport as close to perfection as possible.
 - My favorite music genres are western classical, jazz, and especially hip-hop. I'm a huge fan of all kinds of hip hop, but especially hip hop that leans into melodic elements. I love jazz rap like that of McKinley Dixon, Common, and J Dilla, as well as the music of Griselda Records.
-  - Within Griselda Records, my favorites are Conway and Stove God, but I love all of them!
+  - Within Griselda Records, my favorites are Conway and Stove God, but only by a close margin compared to everyone else!
 
 ### Contact me
 - adityadav372@gmail.com
