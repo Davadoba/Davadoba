@@ -1,32 +1,82 @@
-## Hi, I'm Aditya
-I'm a Computer Science student at UC San Diego. I build data and AI systems that turn messy, real-world data into something people can trust and use.
+<!--
+GitHub profile README, v2 (copy into the Davadoba/Davadoba repo once the flags below are resolved)
+Conventions: [FILL IN: ...] = only you know this. [REVIEW: ...] = check my judgment call. 🚩 = personality section, yours to confirm.
+Delete this comment and every flag before publishing.
+-->
 
-### What I'm working on right now
-- **Project OVERLAP** (Rady Behavioral Economics Lab): using LLMs to turn decades of economics research into structured "claim cards" that can add evidence to news articles
-- **Granny Green** (UCSD XR Lab): A QC protocol for wearable heart-rate data → [GrannyGreen_HRV_Data_Cleaning](https://github.com/Davadoba/GrannyGreen_HRV_Data_Cleaning), plus updating the lab's [experiment platform](https://github.com/xrlucsd/pilot_server). I recently implemented faster, more accurate Whisper speech recognition (~0.6s, ~93% accuracy) and spoken-number parsing, and I'm currently working on creating phase markers and a data collection for the MAT test so we can track biometric measures as the participant gets questions right/wrong. 
-- **Risk Resource** (DS3): I built the FastAPI backend and AWS Lambda + EventBridge data ingestion behind explainable natural-disaster risk scores for every U.S. county → [repo](https://github.com/nathaniel-trueba/RiskResource) · [live](https://risk-resource.vercel.app)
-- **o1Assist** (CSES): AI tools for a legal-tech startup that helps people get O-1 visas (currently in initial project phase)
-- **Eclipse Analytics**: getting started on analytics for UCSD's basketball teams (currently in scoping/research phase)
-- **NBA trade prediction**: can XGBoost tell who's getting traded this offseason? (COGS 108 Data Science Project)
+<!-- [FILL IN: optional header image, about 150–200px tall, placed above your name. Feedback's top pick is an understated data or signal-waveform graphic, not a banner of tech logos. Example: <img src="header.png" width="100%" alt="">] -->
 
-### Past Experiences
-- SYNK (internship): Kafka event pipeline and WebSocket multiplayer sync for an AI virtual-experiences platform
-- CSE Undergraduate Tutor(UC Santa Cruz - Part Time): Tutored 100+ students in Computer Systems (C), Data Structures & Algorithms, Artificial Intelligence, and Computer Networks
+# Aditya Davanam
 
-### Technical Skills
-- **Languages:** Python · TypeScript · JavaScript · SQL · C/C++ · Java
-- **ML / Data:** PyTorch · XGBoost · scikit-learn · pandas · LLM APIs · RAG / pgvector
-- **Web / Backend:** FastAPI · Flask · Node.js · Express · React · Next.js · Kafka · WebSockets
-- **Data / Cloud:** AWS (Lambda, EventBridge, S3, Bedrock, SQS, ECS) · PostgreSQL · Supabase · Docker
+**Computer Science @ UC San Diego** · Machine Learning · Data Systems · Applied AI
 
-### Outside of Coding
-- I love basketball, and I'm a big Knicks fan! I'm interested in sports analytics, and how we can use data to better evaluate the effectiveness of players and teams to push the sport as close to perfection as possible.
-- My favorite music genres are western classical, jazz, and especially hip-hop. I'm a huge fan of all kinds of hip hop, but especially hip hop that leans into melodic elements. I love jazz rap like that of McKinley Dixon, Common, ATCQ, and J Dilla, as well as the music of Griselda Records.
-  - Within Griselda Records, my favorites are Conway and Stove God, but only by a close margin compared to everyone else!
+I build systems that turn real-world data into something people can trust and use. Right now that's analyzing wearable heart-rate signals, decades of economics research, natural-disaster risk, and college basketball. The domains are different, but the central focus is taking raw real-world data and turning it into explainable insights.
 
-### Contact me
-- adityadav372@gmail.com
-- [LinkedIn](https://linkedin.com/in/aditya-davanam-130565319/)
-<!--  Put Personal Website Once It's Live -->
+## ⚡ Now
 
-Feel free to reach out to me about AI, research, hip-hop, basketball, or anything interesting you might be working on!
+### Rady Behavioral Economics Lab — Project OVERLAP
+- Using LLMs to turn decades of economics research into structured claim cards that can add evidence to news articles.
+- Currently Investigating Independently: graph-based representations of claims, evidence, reasoning, etc. to create a more grounded and reliable representation of an academic corpus that AI agents can use.
+
+### UCSD XR Lab — Granny Green
+- Designed a quality-control protocol for wearable PPG heart-rate data, validating signal windows against respiration, movement, and published thresholds. → [GrannyGreen_HRV_Data_Cleaning](https://github.com/Davadoba/GrannyGreen_HRV_Data_Cleaning)
+- Made Whisper speech recognition faster and more accurate (~0.6s, ~93% accuracy) and added spoken-number parsing for the lab's [experiment platform](https://github.com/xrlucsd/pilot_server). 
+- Just implemented phase markers and data collection for the MAT test, where participants do repeated arithmetic in a timed setting. This allows us to track biometric signals over time as participants get answers right/wrong.
+
+### DS3 — Risk Resource
+- Built the FastAPI backend and the AWS Lambda + EventBridge data ingestion pipeline behind explainable natural-disaster risk scores for every U.S. county.
+- Currently working on the XGBoost model to create an ML-based wildfire threat component to our risk scoring. 
+- [Repository](https://github.com/nathaniel-trueba/RiskResource) · [Live demo](https://risk-resource.vercel.app/)
+
+### CSES — o1Assist
+- Building AI tools for a legal-tech startup that helps people navigate the O-1 visa process. Currently in the initial project phase.
+
+### Eclipse Analytics
+- Exploring analytics for UCSD's basketball teams. Currently in the scoping and research phase.
+
+## 💼 Experience
+
+### SYNK — Software Engineering Intern
+- Worked on a Kafka event pipeline and WebSocket-based multiplayer synchronization for an AI virtual-experiences platform.
+
+### UC Santa Cruz — Computer Science Undergraduate Tutor
+- Tutored 100+ students in Computer Systems (C), Data Structures & Algorithms, Artificial Intelligence, and Computer Networks.
+
+## 🔬 Selected Projects
+
+### NBA Trade Prediction
+*COGS 108 · Data Science Project*
+- Can XGBoost tell who's getting traded this offseason? Currently leading a group project exploring which player and team patterns predict offseason trades. [View Here](https://github.com/COGS108/Group060_FA26)
+
+<!-- ### LLM RAG Study Chatbot
+- Serverless RAG chatbot for studying from your own materials, built on AWS Lambda, Bedrock, and pgvector. Used by 8–10 classmates during exam season. [FILL IN: repo link if public] -->
+
+### Transfer Learning Image Classification
+*COGS 144(UCSC) · Machine Learning Project*
+- 100-class image classifier by ensembling EfficientNetV2 and Swin Transformer, reaching 85% accuracy. [View Here](https://github.com/Davadoba/144FinalProject)
+
+## 🛠️ Technical Skills
+
+**Languages:** Python · TypeScript · JavaScript · SQL · C/C++ · Java
+
+**Machine Learning & Data:** PyTorch · XGBoost · scikit-learn · pandas · LLM APIs · RAG · pgvector
+
+**Web & Backend:** FastAPI · Flask · Node.js · Express · React · Next.js · Kafka · WebSockets
+
+**Cloud & Infrastructure:** AWS (Lambda, EventBridge, S3, Bedrock, SQS, ECS) · PostgreSQL · Supabase · Docker
+
+## 🏀 Beyond the Keyboard
+
+Outside of CS, I'm usually watching basketball, anime, listening to music, or thinking about how data can help us understand the world better.
+
+- **Basketball:** Knicks fan. I'm into sports analytics and using data to evaluate players, teams, and the game itself.
+- **Music:** Western classical, jazz, and especially hip-hop. Some favorites: McKinley Dixon, Common, A Tribe Called Quest, J Dilla, Conway the Machine, and Stove God Cooks.
+- **Anime**: My all-time favorites include Steins Gate, Full Metal Alchemist: Brotherhood, Love is War, Samurai Champloo, and Code Geass.
+
+## ✉️ Contact
+
+- **Email:** [adityadav372@gmail.com](mailto:adityadav372@gmail.com)
+- **LinkedIn:** [linkedin.com/in/aditya-dav](https://www.linkedin.com/in/aditya-dav/)
+- [FILL IN: personal website link once it's live]
+
+Feel free to reach out about machine learning, research, anime, basketball, hip-hop, or anything interesting you're working on!
