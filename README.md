@@ -77,6 +77,6 @@ Outside of CS, I'm usually watching basketball, anime, listening to music, or th
 
 - **Email:** [adityadav372@gmail.com](mailto:adityadav372@gmail.com)
 - **LinkedIn:** [linkedin.com/in/aditya-dav](https://www.linkedin.com/in/aditya-dav/)
-- [FILL IN: personal website link once it's live]
+- **Personal Website:** [https://davadoba.github.io/](https://davadoba.github.io/)
 
 Feel free to reach out about machine learning, research, anime, basketball, hip-hop, or anything interesting you're working on!
