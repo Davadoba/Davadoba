@@ -65,13 +65,13 @@ I build systems that turn real-world data into something people can trust and us
 
 **Cloud & Infrastructure:** AWS (Lambda, EventBridge, S3, Bedrock, SQS, ECS) · PostgreSQL · Supabase · Docker
 
-## 🏀 Beyond the Keyboard
+## 🌳 Beyond the Keyboard
 
 Outside of CS, I'm usually watching basketball, anime, listening to music, or thinking about how data can help us understand the world better.
 
-- **Basketball:** Knicks fan. I'm into sports analytics and using data to evaluate players, teams, and the game itself.
-- **Music:** Western classical, jazz, and especially hip-hop. Some favorites: McKinley Dixon, Common, A Tribe Called Quest, J Dilla, Conway the Machine, and Stove God Cooks.
-- **Anime**: My all-time favorites include Steins Gate, Full Metal Alchemist: Brotherhood, Love is War, Samurai Champloo, and Code Geass.
+- 🏀 **Basketball:** Knicks fan. I'm into sports analytics and using data to evaluate players, teams, and the game itself.
+- 🎵 **Music:** Western classical, jazz, and especially hip-hop. Some favorites: McKinley Dixon, Common, A Tribe Called Quest, J Dilla, Conway the Machine, and Stove God Cooks.
+- 📺 **Anime**: My all-time favorites include Steins Gate, Full Metal Alchemist: Brotherhood, Love is War, Samurai Champloo, and Code Geass.
 
 ## ✉️ Contact
 
